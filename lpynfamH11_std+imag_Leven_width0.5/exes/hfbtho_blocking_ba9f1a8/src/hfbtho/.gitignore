@@ -1,0 +1,9 @@
+# files
+*.a 
+*.mod
+*.o
+hfbtho_main
+
+
+# directories
+doc

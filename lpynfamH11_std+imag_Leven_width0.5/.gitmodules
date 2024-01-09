@@ -1,0 +1,4 @@
+[submodule "exes/hfbtho_gitlab"]
+	path = exes/hfbtho_gitlab
+	url = https://gitlab.com/rnavarroperez/hfbtho.git
+	branch = master
